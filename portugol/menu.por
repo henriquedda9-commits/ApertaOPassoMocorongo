@@ -2,7 +2,7 @@ programa{
 
     funcao inicio(){
     caracter opcao
-    real valor
+    real valorgi
 
 
     escreva("A - café\n")
